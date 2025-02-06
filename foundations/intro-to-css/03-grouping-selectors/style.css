@@ -1,0 +1,18 @@
+.lighter, .darker {
+    font-size: 32px;
+    font-family: Verdana, sans-serif;
+    border-top: 2.5px solid gray;
+    border-left: 2.5px solid gray;
+    border-bottom: 2.5px solid black;
+    border-right: 2.5px solid black;
+}
+
+.lighter {
+    color: black;
+    background-color: yellow;
+}
+
+.darker {
+    color: white;
+    background-color: black;
+}
